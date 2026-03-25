@@ -7,7 +7,7 @@
 ## 👤 Author
 
 **Lokesh Chawan** — Roll No: 6706
-**GitHub:** [@lokeshchawan](https://github.com/lokeshchawan)
+**GitHub:** [(https://github.com/lokeshchawan)](https://github.com/lokesh010101)
 **Guide:** Prof. Abhijeet Salvi
 **Institution:** Mahatma Education Society's Pillai College of Arts, Commerce & Science (Autonomous), New Panvel
 **Program:** Master of Science in Information Technology (M.Sc. IT) — Semester IV (2025–26)
